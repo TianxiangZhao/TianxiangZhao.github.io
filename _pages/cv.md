@@ -27,9 +27,3 @@ Work experience
   * Focus on: Neural Machine Translation, Reinforcement Learning
   * Supervisor: Lemao Liu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
