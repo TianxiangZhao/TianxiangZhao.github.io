@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianxiang Zhao"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Phd student at PSU, focusing on graph neural networks and transfer learning. Also interested in NLP-related directions."
   location         : "State College, Pennsylvania"
   employer         :
