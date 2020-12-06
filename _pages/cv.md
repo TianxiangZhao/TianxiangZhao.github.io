@@ -29,7 +29,7 @@ Work experience
 
 Publications
 ======
-  <ul>{Tianxiang Zhao, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." Accepted by WSDM2021.}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  </ul>
+  {% endfor %}</ul>
   
