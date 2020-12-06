@@ -31,5 +31,5 @@ Publications
 ======
   <ul>{Tianxiang Zhao, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." Accepted by WSDM2021.}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  </ul>
   
