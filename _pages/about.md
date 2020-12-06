@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Tianxiang Zhao's home on the web!
+Hello, I am Tianxiang Zhao, a PhD student learning in PSU, and co-advised by Prof.Xiang Zhang and Prof.Suhang Wang. My current research domain lies in GNN, especially in problems related to transfer learning and interpretability. Besides, I am also interested in the application of graphs related to Natural Language or knowledge graphs.
 
