@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Undergraduate in Computer Science, USTC, 2013~2017
+* Master program in Software Engineering(quit), USTC, 2017~2019
+* PhD student in Informatics, PSU, 2019~current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2018 - Jan 2019: Research Intern in Computer Vision
+  * Sensetime
+  * Focus on: Domain Adaptation, Knowledge Distillation
+  * Supervisor: Xu Jia, Jing Shao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan 2019 - June 2019: Research Intern in Natural Language Processing
+  * Tencent AI Lab
+  * Focus on: Neural Machine Translation, Reinforcement Learning
+  * Supervisor: Lemao Liu
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{Tianxiang Zhao, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." Accepted by WSDM2021.}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
