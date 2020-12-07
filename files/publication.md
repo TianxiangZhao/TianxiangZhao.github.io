@@ -1,4 +1,4 @@
-##Publications
+## Publications
 
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." WSDM2021.
 
