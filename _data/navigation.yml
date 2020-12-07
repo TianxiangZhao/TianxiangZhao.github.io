@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: publication.md
  
  
     
      
   - title: "CV"
-    url: /cv/
+    url: /cv/CV.pdf
     
