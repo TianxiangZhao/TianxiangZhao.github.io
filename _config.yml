@@ -11,9 +11,9 @@ title                    : "Tianxiang Zhao's Homepage"
 title_separator          : "-"
 name                     : &name "Tianxiang Zhao"
 description              : &description "Phd student at Pennsylvania State University, IST"
-url                      : https://TianxiangZhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianxiangzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TianxiangZhao/TianxiangZhao.github.io"
+repository               : "TianxiangZhao/tianxiangzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "txiangchao"
+  github           : "TianxiangZhao"
   google_plus      :
   keybase          :
   instagram        :
