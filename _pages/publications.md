@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." **WSDM 2021**.[codes](https://github.com/TianxiangZhao/GraphSmote)
+- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." **WSDM 2021**.\[[codes](https://github.com/TianxiangZhao/GraphSmote)\]
 
 - **Tianxiang Zhao**, Xianfeng Tang, Xiang Zhang, Suhang Wang. "Semi-Supervised Graph-to-Graph Translation." **CIKM 2020**.
 
