@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Exploring Edge Disentanglement for Node Classification." **WebConf 2022**.
+
+- **Tianxiang Zhao**, Enyan Dai, Kai Shu, Suhang Wang. "You Can Still Achieve Fairness Without Sensitive Attributes: Exploring Biases in Non-Sensitive Features." **WSDM 2022**.\[[codes](https://github.com/TianxiangZhao/fairlearn)\]
+
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." **WSDM 2021**.\[[codes](https://github.com/TianxiangZhao/GraphSmote)\]
 
 - **Tianxiang Zhao**, Xianfeng Tang, Xiang Zhang, Suhang Wang. "Semi-Supervised Graph-to-Graph Translation." **CIKM 2020**.
