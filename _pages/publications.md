@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+- **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations." **KDD 2023**. 
+
 - **Tianxiang Zhao**, Dongsheng Luo, Xiang Zhang, Suhang Wang. "TopoImb: Toward Topology-level Imbalance in Learning from Graphs." **LOG 2023**. 
 
 - **Tianxiang Zhao**, Dongsheng Luo, Xiang Zhang, Suhang Wang. "Towards Faithful and Consistent Explanations for Graph Neural Networks." **WSDM 2023**. 
