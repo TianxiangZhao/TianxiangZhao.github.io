@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+
+- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**.
+
+- **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Interpretable Imitation Learning with Dynamic Causal Relations." **WSDM 2024**.
+
 - **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations." **KDD 2023**.  \[[codes](https://github.com/TianxiangZhao/ImitationNoisyDemon)\]
 
 - **Tianxiang Zhao**, Dongsheng Luo, Xiang Zhang, Suhang Wang. "TopoImb: Toward Topology-level Imbalance in Learning from Graphs." **LOG 2023**. 
