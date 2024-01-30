@@ -14,7 +14,9 @@ author_profile: true
 
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**.
 
-- **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Interpretable Imitation Learning with Dynamic Causal Relations." **WSDM 2024**. \[[paper](https://arxiv.org/abs/2310.00489)\]
+- **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Interpretable Imitation Learning with Dynamic Causal Relations." **WSDM 2024** Oral. \[[paper](https://arxiv.org/abs/2310.00489)\]
+
+- Fali Wang, **Tianxiang Zhao**, Suhang Wang. “Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels”. **WSDM 2024**.
 
 - **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations." **KDD 2023**. \[[paper](https://arxiv.org/abs/2306.07919)\]  \[[codes](https://github.com/TianxiangZhao/ImitationNoisyDemon)\]
 
@@ -30,7 +32,7 @@ author_profile: true
 
 - **Tianxiang Zhao**, Enyan Dai, Kai Shu, Suhang Wang. "You Can Still Achieve Fairness Without Sensitive Attributes: Exploring Biases in Non-Sensitive Features." **WSDM 2022**.\[[codes](https://github.com/TianxiangZhao/fairlearn)\]
 
-- Weijeiying Ren, Kunpeng Liu, **Tianxiang Zhao**, Yanjie Fu. "Fair and effective policing for neighborhood safety: understanding and overcoming selection biases". Accepted by **Frontiers in big data 2021**.
+<!---- Weijeiying Ren, Kunpeng Liu, **Tianxiang Zhao**, Yanjie Fu. "Fair and effective policing for neighborhood safety: understanding and overcoming selection biases". Accepted by **Frontiers in big data 2021**.-->
 
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks." **WSDM 2021**.\[[codes](https://github.com/TianxiangZhao/GraphSmote)\]
 
