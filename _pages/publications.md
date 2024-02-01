@@ -11,12 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+- Dongsheng Luo, **Tianxiang Zhao**, Wei Cheng, Dongkuan Xu, Feng Han, Xiao Liu, Wenchao Yu, Haifeng Chen, Xiang Zhang. "Towards Inductive and Efficient Explanations for Graph Neural Networks." **TPAMI**
 
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**.
 
 - **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Interpretable Imitation Learning with Dynamic Causal Relations." **WSDM 2024** Oral. \[[paper](https://arxiv.org/abs/2310.00489)\]
 
 - Fali Wang, **Tianxiang Zhao**, Suhang Wang. “Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels”. **WSDM 2024**.
+
+- **Tianxiang Zhao**, Dongsheng Luo, Xiang Zhang, Suhang Wang. "Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment." **TIST** \[[paper](https://arxiv.org/abs/2301.02791)\]
 
 - **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations." **KDD 2023**. \[[paper](https://arxiv.org/abs/2306.07919)\]  \[[codes](https://github.com/TianxiangZhao/ImitationNoisyDemon)\]
 
