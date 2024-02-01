@@ -18,6 +18,7 @@ Besides, I am also interested in learning from relational data and designing mor
 I received my bachelor degree in Computer Science from University of Science of Technology of China in 2017. I stayed there for two years reading the master degree, advised by Prof.Guiquan Liu. Since 2019, I am persuing a PhD degree in PSU, in the college of Information Sciences and Technology.
 
 ## Recent News 
+* 02/2024: One paper, "Towards Inductive and Efficient Explanations for Graph Neural Networks", is accepted by TPAMI
 * 01/2024：One paper, "Disambiguated Node Classification with Graph Neural Networks", is accepted by WebConf-2024
 * 10/2023：Two papers, ["Interpretable Imitation Learning with Dynamic Causal Relations"](https://arxiv.org/abs/2310.00489) and "Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels" are accepted by WSDM-2024
 * 8/2023, One paper, "T-SaS: Toward Shift-aware Dynamic Adaptation for Streaming Data", is accepted by CIKM-2023
