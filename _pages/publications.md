@@ -13,7 +13,7 @@ author_profile: true
 
 - Dongsheng Luo, **Tianxiang Zhao**, Wei Cheng, Dongkuan Xu, Feng Han, Xiao Liu, Wenchao Yu, Haifeng Chen, Xiang Zhang. "Towards Inductive and Efficient Explanations for Graph Neural Networks." **TPAMI**
 
-- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**.
+- **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**. \[[paper](https://arxiv.org/abs/2402.08824)\]\[[code](https://github.com/TianxiangZhao/DisambiguatedGNN)\]
 
 - **Tianxiang Zhao**, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, Wei Cheng, Haifeng Chen. "Interpretable Imitation Learning with Dynamic Causal Relations." **WSDM 2024** Oral. \[[paper](https://arxiv.org/abs/2310.00489)\]
 
