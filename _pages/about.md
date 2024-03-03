@@ -9,11 +9,17 @@ redirect_from:
 ---
 
 Welcome to my homepage! I am Tianxiang Zhao, a PhD student in PSU, and co-advised by [Prof.Xiang Zhang](https://ist.psu.edu/directory/xzz89) and [Prof.Suhang Wang](https://suhangwang.ist.psu.edu/). My research focuses on topics related to machine learning and data mining. Particularly, my research interest encompasses the following topics:
-- Imperfect supervision due to crowed-sourced data collection pipeline or intrinsic data biases, in-
-cluding noisy label, imbalance, semi-supervision, etc.,
-- Interpretable deep model to increase model transparency, including both ad-hoc and post-hoc
-explanation strategies.
-Besides, I am also interested in learning from relational data and designing more scalable or efficient models.
+- Imperfect supervision due to crowed-sourced data collection pipeline or intrinsic data biases,
+    - Learn with limited amount of data, including semi-supervised and unsupervised learning
+    - Low-quality supervision, with noises in the labels
+    - Biases in the data, such as demographic unfairness
+- Interpretable deep model to increase model transparency,
+    - Prediction and explanation co-design
+    - Explain a trained existing model
+
+
+<!-- Besides, I am also interested in learning from relational data and designing more scalable or efficient models. -->
+
 
 I received my bachelor degree in Computer Science from University of Science of Technology of China in 2017. I stayed there for two years reading the master degree, advised by Prof.Guiquan Liu. Since 2019, I am persuing a PhD degree in PSU, in the college of Information Sciences and Technology.
 
