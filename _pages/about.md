@@ -28,11 +28,11 @@ My research focuses on topics related to data-centric machine learning. Most rec
 - 2013 - 2017, Bachelor in Computer Science, Class of The Gifted Young, University of Science and Technology of China
 
 ## Internship
-- 05/2023 - 08/2023, Research Intern in Microsoft Research
-- 05/2022 - 08/2022, Research Intern in NEC Labs America
-- 05/2021 - 08/2021, Research Intern in NEC Labs America
-- 02/2019 - 06/2019, NLP intern in Tencent AI Lab
-- 08/2018 - 01/2019, SenseTime
+- 05/2023 - 08/2023, Research Intern in Microsoft Research, Redmond, USA
+- 05/2022 - 08/2022, Research Intern in NEC Labs America, Princeton, USA
+- 05/2021 - 08/2021, Research Intern in NEC Labs America, Princeton, USA
+- 02/2019 - 06/2019, NLP intern in Tencent AI Lab, Shenzhen, China
+- 08/2018 - 01/2019, SenseTime, Beijing, China
 
 ## Recent News 
 * 02/2024: One paper, "Towards Inductive and Efficient Explanations for Graph Neural Networks", is accepted by TPAMI
