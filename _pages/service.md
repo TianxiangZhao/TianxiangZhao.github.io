@@ -8,7 +8,7 @@ author_profile: true
 ## Session Chair
 * Scalable, Distributed Systems & Trustable AI @KDD2022
 
-## rogram Committee
+## Program Committee
 * AAAI Conference on Artificial Intelligence (AAAI) 2022-2024
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2022-2023
 * ACM International Conference on Web Search and Data Mining (WSDM) 2022-2024
