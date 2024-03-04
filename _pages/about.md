@@ -1,24 +1,39 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my homepage! I am Tianxiang Zhao, a PhD student in PSU, and co-advised by [Prof.Xiang Zhang](https://ist.psu.edu/directory/xzz89) and [Prof.Suhang Wang](https://suhangwang.ist.psu.edu/). My research focuses on topics related to machine learning and data mining. Particularly, my research interest encompasses the following topics:
+Welcome to my homepage! I am Tianxiang Zhao, a PhD student in PSU, and co-advised by [Prof.Xiang Zhang](https://ist.psu.edu/directory/xzz89) and [Prof.Suhang Wang](https://suhangwang.ist.psu.edu/). In the past, I have had the opportunity to intern and work with many wonderful industrial collaborators from Microsoft Research (https://www.microsoft.com/en-us/research/) and NEC lab.
+
+## Research
+My research focuses on topics related to machine learning and data mining. Most recently, I am interested in the following topics:
 - Imperfect supervision due to crowed-sourced data collection pipeline or intrinsic data biases,
-    - Learn with limited amount of data, including semi-supervised and unsupervised learning
-    - Low-quality supervision, with noises in the labels
-    - Biases in the data, such as demographic unfairness
+Learning with imperfect data, includes 
+    - Incomplete Supervision: limited amount of data; 
+    - Low-quality supervision: noises in the labels;
+    - Inaccurate Supervision: biases in the data or labels.       , such as demographic unfairness
+Learning with an intrepretable model, icludes  
 - Interpretable deep model to increase model transparency,
     - Prediction and explanation co-design
     - Explain a trained existing model
 
 
 <!-- Besides, I am also interested in learning from relational data and designing more scalable or efficient models. -->
+
+## Education 
+The Pennsylvania State University, 2019 - 2024 (expected)
+Ph.D candidate, Information Sciences and Technology
+
+University of Science and Technology of China, 2017 - 2019
+Master student, School of Software
+
+University of Science and Technology of China, 2013 - 2017
+B.Eng. in Computer Science, School of The Gifted Young
 
 
 I received my bachelor degree in Computer Science from University of Science of Technology of China in 2017. I stayed there for two years reading the master degree, advised by Prof.Guiquan Liu. Since 2019, I am persuing a PhD degree in PSU, in the college of Information Sciences and Technology.
