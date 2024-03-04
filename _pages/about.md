@@ -16,7 +16,7 @@ My research focuses on topics related to data-centric machine learning. Most rec
     - Few supervision: semi-supervised and unsupervised learning; 
     - Low-quality supervision: learning with noisy labels;
     - Biased data: alleviating biases and demographic unfairness in the learned model. 
-- Uncover knowledge learned by the model:
+- Uncovering knowledge learned by the model:
     - Prediction and explanation co-design for intrinsically interpretable models;
     - Post-hoc explanation of a trained existing model.
 
