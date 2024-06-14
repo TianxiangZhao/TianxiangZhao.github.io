@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+- **Tianxiang Zhao**, Dongsheng Luo, Xiang Zhang, Suhang Wang. "Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling." **KDD 2024**
+
 - Dongsheng Luo, **Tianxiang Zhao**, Wei Cheng, Dongkuan Xu, Feng Han, Xiao Liu, Wenchao Yu, Haifeng Chen, Xiang Zhang. "Towards Inductive and Efficient Explanations for Graph Neural Networks." **TPAMI**
 
 - **Tianxiang Zhao**, Xiang Zhang, Suhang Wang. "Disambiguated Node Classification with Graph Neural Networks." **WebConf 2024**. \[[paper](https://arxiv.org/abs/2402.08824)\]\[[code](https://github.com/TianxiangZhao/DisambiguatedGNN)\]
