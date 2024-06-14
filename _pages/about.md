@@ -35,6 +35,7 @@ My research focuses on topics related to data-centric machine learning. Most rec
 - 08/2018 - 01/2019, SenseTime, Beijing, China
 
 ## Recent News 
+* 05/2024: One paper, "Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling", is accepted by KDD-2024
 * 02/2024: One paper, "Towards Inductive and Efficient Explanations for Graph Neural Networks", is accepted by TPAMI
 * 01/2024：One paper, "Disambiguated Node Classification with Graph Neural Networks", is accepted by WebConf-2024
 * 10/2023：Two papers, ["Interpretable Imitation Learning with Dynamic Causal Relations"](https://arxiv.org/abs/2310.00489) and "Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels" are accepted by WSDM-2024
