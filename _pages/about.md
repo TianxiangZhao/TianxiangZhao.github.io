@@ -12,8 +12,9 @@ Welcome to my homepage! I am Tianxiang Zhao, a PhD student in the Pennsylvania S
 
 ## Research
 My research focuses on topics related to data-centric machine learning. Most recently, I am interested in the following topics,
-- Learning with weak supervisions: 
-    - Few supervision: semi-supervised and unsupervised learning; 
+- Learning in complex environments: 
+    - Shifting distributions: knowledge distillation, domain adaptation;
+    - Few supervision: unsupervised contrastive learning; 
     - Low-quality supervision: learning with noisy labels;
     - Biased data: alleviating biases and demographic unfairness in the learned model. 
 - Uncovering knowledge learned by the model:
